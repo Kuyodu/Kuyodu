@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Kuyodu/Kuyodu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kuyodu/Kuyodu** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![ezgif com-crop](https://github.com/Slegendz/Slegendz/assets/108775767/9ab8a9a6-4ca8-4fe4-9f35-24816e5096a5)
+
+<h1 align = "center"> ✨ Hi, I'm Kuyodu ✨ </h1>
+
+- 🔭 I’m currently working on advance chatbots.
+- 🌱 I’m currently learning AI and Deep Learning.
+- 🤔 I’m looking for help with LLM.
+- 💬 Ask me about AI.
+- 📫 How to reach me: Well, ...
+- ⚡ Fun fact: JS is fun!
